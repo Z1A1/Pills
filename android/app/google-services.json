@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1011518141840",
+    "project_id": "bank-app-3678f",
+    "storage_bucket": "bank-app-3678f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011518141840:android:84ea396afa5eb2ce6d2f15",
+        "android_client_info": {
+          "package_name": "com.bankapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011518141840-ng6o1e5i27oqfjq0ru54p5jvd6riqhph.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bankapp",
+            "certificate_hash": "dec3538a4a7a3a555f0bc4d19641a594ee2964bd"
+          }
+        },
+        {
+          "client_id": "1011518141840-99rm6aj9dgtgb8ft417el6b890e6e199.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB73s93kgLL5yve8y8hR0mPaD7-ZU5DpXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011518141840-99rm6aj9dgtgb8ft417el6b890e6e199.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
